@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+my+name+is+Yassir+Yassin+!;Welcome+!)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassirscreed)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassirscreed)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 
 <!--
