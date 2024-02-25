@@ -1,6 +1,6 @@
-### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+my+name+is+Yassir+Yassin+!;Welcome+!)](https://git.io/typing-svg)
 
 <!--
 **yassirscreed/yassirscreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
